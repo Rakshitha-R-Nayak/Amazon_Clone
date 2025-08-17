@@ -5,7 +5,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './components/Navbar'
 import Home from './components/Home'
-import Navbar1 from './components/NA'
+
 import Banner from './components/Banner'
 import products from './Product'
 import ProductCard from './components/ProductCard'
