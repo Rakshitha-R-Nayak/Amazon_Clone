@@ -2,7 +2,7 @@ import { useState,useEffect, useContext } from "react";
 import products from "../Product"; 
 import ProductCard from "../components/ProductCard";
 import Loader from "../components/Loader";
-import Search from "../components/Search";
+
 import { ThemeContext } from "../components/ThemeContext";
 
 function ProductList(props) {
